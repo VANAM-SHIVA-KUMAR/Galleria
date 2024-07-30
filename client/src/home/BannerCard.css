@@ -1,0 +1,54 @@
+.banner .swiper {
+  /* width: 240px;
+  height: 320px; */
+  width: 420px;
+  height: 500px;
+  margin-right: 50px;
+  margin-top: 0;
+}
+
+.banner .swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.banner .swiper-slide:nth-child(1n) {
+  background-image: url("src/assets/banner-arts/art1.jpg");
+}
+
+.banner .swiper-slide:nth-child(2n) {
+  background-image: url("src/assets/banner-arts/art2.jpg");
+}
+
+.banner .swiper-slide:nth-child(3n) {
+  background-image: url("src/assets/banner-arts/art3.jpg");
+}
+
+.banner .swiper-slide:nth-child(4n) {
+  background-image: url("src/assets/banner-arts/art4.jpg");
+}
+
+.banner .swiper-slide:nth-child(5n) {
+  background-image: url("src/assets/banner-arts/art5.jpg");
+}
+
+.banner .swiper-slide:nth-child(6n) {
+  background-image: url("src/assets/banner-arts/art6.jpg");
+}
+
+.banner .swiper-slide:nth-child(7n) {
+  background-image: url("src/assets/banner-arts/art7.jpg");
+}
+
+.banner .swiper-slide:nth-child(8n) {
+  background-image: url("src/assets/banner-arts/art8.jpg");
+}
+
+.banner .swiper-slide:nth-child(9n) {
+  background-image: url("src/assets/banner-arts/art9.jpg");
+}
