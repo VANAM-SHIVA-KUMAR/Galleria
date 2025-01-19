@@ -1,6 +1,6 @@
-# GALLERIA - Discover Art, Explore Passion
+# GALLERIA - Discover Art, Explore Passion 
 
-
+ 
 # Data flow chart
 ![Data Flow Chart](https://github.com/Harshit-Raj-14/Galleria/assets/98808802/d0aaa9f5-66ca-4f1a-b009-951466f2b2b2)
 
